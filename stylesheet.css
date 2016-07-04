@@ -1,0 +1,26 @@
+<head>
+	<style>
+		body{
+
+		}
+		h2{
+			text-align: center;
+		}
+		.about-section{
+			background-color: #FFF;
+			padding: 120px;
+		}
+		.about-para{
+			font-family: "Avenir Next", sans-serif;
+			font-size: 20px;
+			text-align: center;
+			padding: 0px 195px 0px 195px;
+		}
+		.work-section{
+			padding: 120px;
+		}
+		.contact-section{
+			padding: 120px;
+		}
+	</style>
+</head>
