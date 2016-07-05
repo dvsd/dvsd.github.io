@@ -1,26 +1,39 @@
-<head>
-	<style>
-		body{
+h1,h2 {
+	font-family: 'Avenir Next';
+	text-align: center;
+}
 
-		}
-		h2{
-			text-align: center;
-		}
-		.about-section{
-			background-color: #FFF;
-			padding: 120px;
-		}
-		.about-para{
-			font-family: "Avenir Next", sans-serif;
-			font-size: 20px;
-			text-align: center;
-			padding: 0px 195px 0px 195px;
-		}
-		.work-section{
-			padding: 120px;
-		}
-		.contact-section{
-			padding: 120px;
-		}
-	</style>
-</head>
+h1 {
+	font-size: 80px;
+	font-family: 'Avenir Next';
+	text-align: center;
+	margin-top: 180px;
+	letter-spacing: 0.9em;
+	text-indent: 0.9em;
+	font-weight:;
+	color: #3F3F3F;
+}
+
+h2 {
+	font-size: 28px;
+	color: #7E7E7E;
+	letter-spacing: 0.2em;
+	text-indent: 0.2em;
+	font-weight: thin;
+	margin-top: 10px;
+}
+
+img {
+	width: 38px;
+	height: 38px;
+	padding-left: 7px;
+	padding-right: 7px;
+}
+
+.icons {
+	text-align: center;
+}
+.container {
+	max-width: 960px;
+}
+
