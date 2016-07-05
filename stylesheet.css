@@ -29,6 +29,9 @@ img {
 	padding-left: 7px;
 	padding-right: 7px;
 }
+a:hover {
+	text-decoration: none;
+}
 
 .icons {
 	text-align: center;
