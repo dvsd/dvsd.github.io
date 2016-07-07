@@ -29,6 +29,7 @@ img {
 	padding-left: 7px;
 	padding-right: 7px;
 }
+
 a:hover, a:focus {
 	text-decoration: none;
 }
@@ -40,3 +41,9 @@ a:hover, a:focus {
 	max-width: 960px;
 }
 
+@media screen and (max-width: 550px) {
+	h1 {
+		letter-spacing: 0.2em;
+		text-indent: 0.2em;
+	}
+}
