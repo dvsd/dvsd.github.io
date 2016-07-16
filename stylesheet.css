@@ -58,7 +58,7 @@ a:hover, a:focus {
     transition: height 1s;
 }
 
-.completum-rectangle:hover, .completum-rectangle:focus, .gf-rectangle:hover, .gf-rectangle:focus {
+.completum-rectangle:hover, .completum-rectangle:focus, .completum-rectangle:active, .gf-rectangle:hover, .gf-rectangle:focus, .gf-rectangle:active {
 	height: 250px;
 }
 
