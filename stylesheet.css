@@ -186,34 +186,53 @@ a:hover, a:focus {
 	.container {
 		max-width: 525px;
 	}
+	.completum-rectangle, .gf-rectangle {
+		background: #000000;
+		width: 95%;
+		height: 310px;
+	}
 	.completum-description {
 		font-size: 15px;
-		margin: 20px 20px 20px 20px;
+		margin: 150px 20px 20px 20px;
 		text-align: center;
+		opacity: 1;
 	}
 	.completum-link {
-		margin-top: 105px;
+		margin-top: 235px;
 		margin-left: auto;
 		margin-right: auto;
+		opacity: 1;
 	}
 	.completum-img {
-		display: none;
+		width: 80%;
+		height: 120px;
+		margin: 10px;
+		margin-top: 20px;
+		margin-left: 25px;
+		opacity: 1;
 	}
 
 	.gf-description {
 		font-size: 15px;
-		margin: 20px 20px 20px 20px;
+		margin: 160px 20px 20px 20px;
 		text-align: center;
+		opacity: 1;
 	}
 	.gf-link {
-		margin-top: 115px;
+		margin-top: 250px;
 		margin-left: auto;
 		margin-right: auto;
+		opacity: 1;
 	}
 	.gf-img {
-		display: none;
+		width: 80%;
+		height: 135px;
+		margin: 10px;
+		margin-top: 20px;
+		margin-left: 25px;
+		opacity: 1;
 	}
 	.completum-rectangle:hover, .completum-rectangle:focus, .completum-rectangle:active, .gf-rectangle:hover, .gf-rectangle:focus, .gf-rectangle:active {
-		height: 180px;
+		height: 310px;
 	}
 }
